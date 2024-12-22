@@ -1,5 +1,5 @@
 # Rapido Ride Services Data Analysis Dashboard
-![Meesho Sales Data Dashboard](https://github.com/arindam-bhunia/Meesho-Sales-Data-Dashboard/blob/main/Meesho%20Preview.png)
+![Rapido Ride Services Data Analysis Dashboard](https://github.com/arindam-bhunia/Rapido-Ride-Services-Data-Analysis-Dashboard/blob/main/Rapido%20Preview.png)
 ## Download Dashboard
 
 ## Source of the Dataset
