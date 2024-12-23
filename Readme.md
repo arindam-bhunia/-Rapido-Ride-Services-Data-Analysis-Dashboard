@@ -2,6 +2,8 @@
 ![Rapido Ride Services Data Analysis Dashboard](https://github.com/arindam-bhunia/Rapido-Ride-Services-Data-Analysis-Dashboard/blob/main/Rapido%20Preview.png)
 ## Preview Dashboard
 [Preview](https://github.com/arindam-bhunia/Rapido-Ride-Services-Data-Analysis-Dashboard/blob/main/index.html)
+## Download Dashboard
+[Download](https://github.com/arindam-bhunia/Rapido-Ride-Services-Data-Analysis-Dashboard/blob/main/Rapido%20Ride%20Services%20Data%20Analysis%20Dashboard.xlsx)
 ## Source of the Dataset
 [https://www.kaggle.com/datasets/vishaldeoprasad/bangalore-rapido-ride-services-dataset](https://www.kaggle.com/datasets/vishaldeoprasad/bangalore-rapido-ride-services-dataset)
 
