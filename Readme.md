@@ -1,4 +1,4 @@
-# Rapido-Ride-Services-Data-Analysis-using-Excel-Dashboard
+# Rapido Ride Services Data Analysis using Excel Dashboard
 ![Rapido Ride Services Data Analysis Dashboard](https://github.com/arindam-bhunia/Rapido-Ride-Services-Data-Analysis-Dashboard/blob/main/Rapido%20Preview.png)
 ## Preview Interactive Dashboard
 [Preview](https://arindam-bhunia.github.io/Rapido.html) (might take time to load)
